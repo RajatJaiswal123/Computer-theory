@@ -1,20 +1,20 @@
-what is computer theory and what is its scope?
+**कंप्यूटर सिद्धांत क्या है और इसका क्षेत्र क्या है?**
 
 
-**Computer Basics** refers to a computer's fundamental concepts and operations, including its components, functions, and how it processes information. Understanding computer basics involves:
+**कंप्यूटर बेसिक्स** का अर्थ कंप्यूटर की मौलिक अवधारणाओं और संचालन से है, जिसमें इसके घटक, कार्य और यह कैसे जानकारी को संसाधित करता है। कंप्यूटर बेसिक्स को समझने में निम्नलिखित शामिल हैं:
 
-1. **Hardware**: The physical components of a computer, such as the monitor, keyboard, mouse, processor (CPU), memory (RAM), storage devices, and peripherals (printers, scanners).
+1. **हार्डवेयर**: कंप्यूटर के भौतिक घटक, जैसे मॉनिटर, कीबोर्ड, माउस, प्रोसेसर (CPU), मेमोरी (RAM), स्टोरेज डिवाइस, और परिधीय उपकरण (प्रिंटर, स्कैनर)।
 
-2. **Software**: Programs and operating systems run on the hardware, enabling it to perform specific tasks. This includes system software (like Windows, macOS, Linux) and application software (like word processors, web browsers, and games).
+2. **सॉफ्टवेयर**: वे प्रोग्राम और ऑपरेटिंग सिस्टम जो हार्डवेयर पर चलते हैं और इसे विशिष्ट कार्य करने में सक्षम बनाते हैं। इसमें सिस्टम सॉफ़्टवेयर (जैसे Windows, macOS, Linux) और एप्लिकेशन सॉफ़्टवेयर (जैसे वर्ड प्रोसेसर, वेब ब्राउज़र, और गेम) शामिल हैं।
 
-3. **Input and Output**: Understanding how data is entered into the computer (input) through devices like keyboards or mice and how the computer communicates information back to the user (output) through screens, speakers, or printers.
+3. **इनपुट और आउटपुट**: यह समझना कि कीबोर्ड या माउस जैसे उपकरणों के माध्यम से कंप्यूटर में डेटा कैसे दर्ज किया जाता है (इनपुट) और कंप्यूटर उपयोगकर्ता को जानकारी कैसे वापस संप्रेषित करता है (आउटपुट), जैसे स्क्रीन, स्पीकर, या प्रिंटर के माध्यम से।
 
-4. **Data Processing**: The way a computer processes information. It involves receiving input, processing it according to instructions, storing data, and producing output.
+4. **डेटा प्रोसेसिंग**: जिस प्रकार से कंप्यूटर जानकारी को संसाधित करता है। इसमें इनपुट प्राप्त करना, निर्देशों के अनुसार इसे संसाधित करना, डेटा को स्टोर करना, और आउटपुट उत्पन्न करना शामिल है।
 
-5. **Operating System**: The software that manages computer hardware and software resources, providing services to computer programs. It is essential for controlling basic functions such as memory management, task scheduling, and file handling.
+5. **ऑपरेटिंग सिस्टम**: वह सॉफ़्टवेयर जो कंप्यूटर हार्डवेयर और सॉफ़्टवेयर संसाधनों का प्रबंधन करता है और कंप्यूटर प्रोग्रामों को सेवाएं प्रदान करता है। यह मेमोरी प्रबंधन, कार्य निर्धारण और फाइल हैंडलिंग जैसे बुनियादी कार्यों को नियंत्रित करने के लिए आवश्यक है।
 
-6. **Networking**: Basics of how computers connect and communicate with each other through wired or wireless networks (LAN, WAN, Internet).
+6. **नेटवर्किंग**: यह बुनियादी जानकारी कि कैसे कंप्यूटर तारों या वायरलेस नेटवर्क (LAN, WAN, इंटरनेट) के माध्यम से एक-दूसरे से जुड़ते और संवाद करते हैं।
 
-7. **Security**: Fundamental practices for protecting data and systems, including understanding passwords, antivirus programs, firewalls, and safe internet usage.
+7. **सुरक्षा**: डेटा और सिस्टम की सुरक्षा के लिए मौलिक प्रथाएँ, जिनमें पासवर्ड, एंटीवायरस प्रोग्राम, फायरवॉल, और सुरक्षित इंटरनेट उपयोग को समझना शामिल है।
 
-Computer basics are foundational for navigating, troubleshooting, and using computers effectively in everyday life and work.
+कंप्यूटर बेसिक्स रोजमर्रा की जिंदगी और कार्य में कंप्यूटर को प्रभावी ढंग से नेविगेट, समस्या समाधान और उपयोग करने के लिए बुनियादी हैं।
