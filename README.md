@@ -357,6 +357,6 @@ Please read the [contribution guidelines](contributing.md) first.
 
 ## About
 
-[![CC0](https://github.com/rajatjaiswal123)
 
-To the extent possible under law, [Rajat Jaiswal]([https://abhisheknaidu.tech/](https://github.com/rajatjaiswal123) has waived all copyright and related or neighboring rights to this work.
+
+To the extent possible under law, [Rajat Jaiswal](https://github.com/rajatjaiswal123) has waived all copyright and related or neighboring rights to this work.
